@@ -3,8 +3,7 @@
 > Swipe your way to your next experience — discover restaurants, events, and outdoor activities the way you discover everything else worth discovering.
 
 <p align="center">
-  <!-- Replace with your app icon or a hero banner -->
-  <img src="screenshots/hero.png" alt="WhereNext" width="720"/>
+  <img src="screenshots/home.PNG" alt="WhereNext" width="280"/>
 </p>
 
 <p align="center">
@@ -54,18 +53,20 @@ This repository is a **public showcase** of the project's vision, design, and en
 
 ## 📱 Screenshots
 
-<!-- Place your screenshots in a /screenshots folder at the repo root.
-     Recommended: 3:6.5 ratio (iPhone), ~300–400px wide for the table cells. -->
-
-| Discovery (Swipe) | Venue Profile | Map View |
+| Discovery Feed | Swipe Interaction | Venue Profile |
 |:---:|:---:|:---:|
-| <img src="screenshots/swipe.png" width="240"/> | <img src="screenshots/profile.png" width="240"/> | <img src="screenshots/map.png" width="240"/> |
+| <img src="screenshots/home.PNG" width="240"/> | <img src="screenshots/swipe-right.PNG" width="240"/> | <img src="screenshots/profile.PNG" width="240"/> |
 
-| Login | Sign Up | Creator Flow |
-|:---:|:---:|:---:|
-| <img src="screenshots/login.png" width="240"/> | <img src="screenshots/signup.png" width="240"/> | <img src="screenshots/creator.png" width="240"/> |
+*Additional views — map, authentication flows, and the creator dashboard — will be added as those areas mature.*
 
-> *A short demo GIF of the swipe interaction will be added here once recorded.*
+---
+
+## 🎥 Live Demo
+
+<!-- Drag-and-drop your recording.MP4 file directly into this README on GitHub's web editor.
+     GitHub will upload it and replace this comment with an inline video player. -->
+
+> *A short walkthrough of the swipe interaction.*
 
 ---
 
@@ -129,14 +130,7 @@ WhereNext/
 
 ## 👤 About the Developer
 
-I'm **Emmanouil (Manos) Roukounakis**, a Computer Science student at the Athens University of Economics and Business (AUEB) with an Erasmus exchange at NTNU in Trondheim, Norway. I work primarily in iOS, with a strong interest in distributed systems and applied ML, and I like building products end-to-end — from idea to running app.
-
-**Get in touch:**
-- 💼 LinkedIn: [your-linkedin-url]
-- 📧 Email: [your-email]
-- 🐙 GitHub: [your-github-profile]
-
----
+I'm **Manos Roukounakis**, a Computer Science student at the Athens University of Economics and Business (AUEB). I work primarily in iOS, with a strong interest in distributed systems, and I like building products end-to-end — from idea to running app.
 
 ## 📄 Code Access
 
@@ -144,4 +138,4 @@ The full source of WhereNext is **private** while the project is in active devel
 
 ---
 
-<p align="center"><i>Built with ☕ in Athens & Trondheim.</i></p>
+<p align="center"><i>Built with ☕ in Athens.</i></p>
